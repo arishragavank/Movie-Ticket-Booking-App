@@ -70,11 +70,10 @@ npm run dev  # for backend
 
 ## 🧑‍💻 Contributors
 
-* [Your Name](https://github.com/your-username)
+* [arishragavank](https://github.com/arishragavank)
 * Contributions welcome!
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
