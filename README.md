@@ -20,7 +20,7 @@ A full-featured movie ticket booking application that allows users to browse mov
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React Native / Flutter / Android (Java/Kotlin) / iOS (Swift) — *(Choose your platform)*
+- React 
 - Redux or Context API for state management
 
 ### Backend
