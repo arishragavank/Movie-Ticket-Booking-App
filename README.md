@@ -78,8 +78,3 @@ npm run dev  # for backend
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ```
-
----
-
-Let me know if you want this tailored to a specific framework (e.g., React, Flutter, Django) or want to include database schema, APIs, or Docker support.
-```
